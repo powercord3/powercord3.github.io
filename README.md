@@ -6,7 +6,6 @@
     <title>My Website</title>
 </head>
 <body>
-    <h1>Hello, World!</h1>
-    <p>This is my first website setup.</p>
+    <iframe src="https://claude.site/public/artifacts/57171c6b-f2a5-430f-87c8-77e11c636fba/embed" title="internship_dashboard.html" width="100%" height="600" frameborder="0" allow="clipboard-write" allowfullscreen></iframe>
 </body>
 </html>
