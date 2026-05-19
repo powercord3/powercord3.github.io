@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Website</title>
+    <title>My Websitmmme</title>
 </head>
 <body>
     <iframe
@@ -14,6 +14,6 @@
         allow="clipboard-write"
         allowfullscreen>
         </iframe>
-    <p> if embed does not work: https://claude.site/public/artifacts/57171c6b-f2a5-430f-87c8-77e11c636fba/embed](https://claude.ai/public/artifacts/57171c6b-f2a5-430f-87c8-77e11c636fba </p>
+    <p> if embed does not work: https://claude.ai/public/artifacts/57171c6b-f2a5-430f-87c8-77e11c636fba </p>
 </body>
 </html>
