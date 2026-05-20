@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Websitmmme</title>
-</head>
-<body>
-   import React, { useState, useEffect, useMemo } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 import { ChevronDown, Check, RotateCcw, ExternalLink } from 'lucide-react';
 
 /* ----------------------------------------------------------------
@@ -690,5 +682,3 @@ export default function StudyPlan() {
     </>
   );
 }
-</body>
-</html>
